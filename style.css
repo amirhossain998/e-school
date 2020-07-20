@@ -1,0 +1,108 @@
+body{
+    overflow-x: hidden;
+}
+.bg-color{
+    background-color: teal;
+    color: white;
+}
+.color{
+    color: rgb(97, 6, 6);
+}
+.get-started{
+    color: white;
+}
+.show-pic{
+    width: 20%;
+    height: 10%;
+    float: left;
+}
+.online-course{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.half-width{
+float: left;
+width: 40%;
+padding-left: 2%;
+margin-left: 5%;
+
+}
+.test{
+    font-size: 12px;
+    padding: 20px;
+    margin-left: 0;
+}
+.bottom-area{
+    background-color: black;
+    color: white;
+    height: 400px;
+}
+.line-height{
+    padding: 20px;
+}
+.footer{
+margin: auto;
+}
+.logo{
+    height: 60px;
+    padding: 10px;
+}
+.learning-area{
+    padding: 40px;
+    margin-top: 40px;
+}
+.color-nav{
+    color: white;
+}
+.sign-in{
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 3px;
+    color: red;
+    margin: 10px;
+    font-size: small;
+}
+.card{
+    box-shadow: 10px 10px 40px lightgray;
+    border: none;
+    height: 80%;
+    border-radius: 20px;
+    margin-top: 80px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.image-footer{
+    width: 20px;
+    height: 10px;
+    float: left;
+}
+.footer-text{
+    font-size: 5px;
+    float: left;
+}
+.buy-course{
+    background-color: lightgreen;
+    border-radius: 10px;
+    padding: 5px 5px;
+
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+    margin-bottom: 100px;
+
+}
+.half-width img{
+    width: 50%;
+    margin-left: 40%;
+}
+footer{
+    margin-top: 500px;
+}
+.man-biography{
+    margin-top: 50px;
+}
+.para{
+    text-align: center;
+}
